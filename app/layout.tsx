@@ -4,9 +4,6 @@ import { Inter } from "next/font/google"
 import "./globals.css"
 import TourvisPcGnb from "@/components/tourvis-pc-gnb";
 import TourvisBottomTabBar from "@/components/tourvis-bottom-tab-bar";
-import TourvisContTop from "@/components/tourvis-cont-top";
-import PriviaHamburger from "@/components/privia-hamburger";
-import PriviaPcGnb from "@/components/privia-pc-gnb";
 
 const inter = Inter({ subsets: ["latin"] })
 
